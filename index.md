@@ -15,3 +15,7 @@ y = "John"
 print(x)
 print(y)
 ```
+
+- [ ] Test 1
+- [ ] Test 2 
+- [ ] Test 3
