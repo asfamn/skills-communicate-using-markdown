@@ -8,3 +8,10 @@
 I know how headers work :D
 
 ![Image of Juice WRLD](https://www.nme.com/wp-content/uploads/2019/12/Juice-WRLD-1392x884.jpg)
+
+``` python
+x = 5
+y = "John"
+print(x)
+print(y)
+```
